@@ -1,6 +1,13 @@
 Beaglebone Black GPIO C++ Library
 =================================
 
+Install Build Tools
+-------------------------
+
+```bash
+sudo apt-get install python-catkin-tools
+```
+
 Build Library:
 -------------
 
